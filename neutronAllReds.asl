@@ -56,7 +56,7 @@ split
 	if(current.redNeutronsCollected>old.redNeutronsCollected){
 		return true;
 	}
-	if(current.redNeutronsCollected == 64 && current.Cutscene == 0){
+	if(current.redNeutronsCollected == 66 && current.Cutscene == 0){
 		return true;
 	}
 }
